@@ -4,9 +4,6 @@
 
 #### _NEXT_
 
-- Updated npm dev dependencies
-- Modified added an inline svg placeholder to the `image_simple.html` demo
-- Added the new `image_simple_external_ph.html`, with an external SVG placholder
 - Excluded unrequired files from the `git archive` via the `.gitignore` file
 
 #### 12.0.3
